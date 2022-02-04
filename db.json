@@ -12,11 +12,11 @@
       "id": 1
     },
     {
-      "name": "teste2",
-      "budget": "3000",
+      "name": "projeto atualizado",
+      "budget": "7402",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
