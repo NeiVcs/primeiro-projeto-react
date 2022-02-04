@@ -12,75 +12,15 @@
       "id": 1
     },
     {
-      "name": "teste",
-      "budget": "123",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "a",
-      "budget": "-1",
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "1",
-      "budget": "1",
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "q",
-      "budget": "1",
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "1",
-      "budget": "2",
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "1",
-      "budget": "2",
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "teste",
-      "budget": "2",
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "agora vai",
-      "budget": "300",
+      "name": "teste2",
+      "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 9
-    },
-    {
-      "name": "a",
-      "budget": "3",
-      "cost": 0,
-      "services": [],
-      "id": 10
+      "id": 2
     }
   ],
   "categories": [
