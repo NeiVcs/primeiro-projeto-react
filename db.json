@@ -19,7 +19,53 @@
         "name": "Design"
       },
       "cost": 0,
-      "services": [],
+      "services": [
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        },
+        {
+          "name": "a",
+          "cost": "123456",
+          "description": "d"
+        }
+      ],
       "id": 2
     }
   ],
