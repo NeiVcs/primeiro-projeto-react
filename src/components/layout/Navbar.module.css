@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     background-color: black;
-    padding: 1em;
+    padding: 5px;
 }
 
 .list{
@@ -22,4 +22,9 @@
 
 .item a:hover{
     color: #ffbb33;
+}
+
+.img{
+    width: 70px;
+    margin: 0px;
 }

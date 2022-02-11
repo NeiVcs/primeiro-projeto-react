@@ -78,6 +78,22 @@ function Project(){
             project.services.pop()
             return false
         }
+
+        project.cost = newCost
+
+        fetch(`http://localhost:5000/projects/${project.id}`,{
+            method: 'PATCH',
+            headers:{
+                'content-Type':'application/json',
+            },
+            body: JSON.stringify(project)
+        })
+        .then((resp) => resp.json())
+        .then((data) => {
+            //exibir
+            console.log(data)
+        })
+        .catch((err) => console.log(err))
     }
 
     function toggleProjectForm(){
@@ -146,3 +162,4 @@ function Project(){
 }
 
 export default Project
+//aula 35 para visualização de serviços
